@@ -18,7 +18,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 1      |
+| 🟢 Easy    | 3      |
 | 🟡 Medium  | 0      |
 | 🔴 Hard    | 0      |
 
@@ -29,6 +29,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Two_sum.py) |
+| 2 | [Palindrome Number](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Palindrome_Number.py) |
+| 3 | [Integer to Roman](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Integer_to_Roman.py) |
 
 ---
 
