@@ -14,16 +14,6 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ---
 
-## 📊 Progress
-
-| Difficulty | Solved |
-|------------|--------|
-| 🟢 Easy    | 3      |
-| 🟡 Medium  | 0      |
-| 🔴 Hard    | 0      |
-
----
-
 ## 📁 Solutions
 
 | # | Problem | Difficulty | Solution |
@@ -31,6 +21,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Two_sum.py) |
 | 2 | [Palindrome Number](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Palindrome_Number.py) |
 | 3 | [Integer to Roman](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Integer_to_Roman.py) |
+| 4 | [Longest Common Prefix](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./Longest_Common_Prefix.py) |
 
 ---
 
